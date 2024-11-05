@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(flutter_paml_e_5210411054 LANGUAGES CXX)
+project(flutter_paml_e_5210411086 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "flutter_paml_e_5210411054")
+set(BINARY_NAME "flutter_paml_e_5210411086")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

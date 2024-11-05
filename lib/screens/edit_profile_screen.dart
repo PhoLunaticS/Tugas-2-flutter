@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_paml_e_5210411054/screens/login_screen.dart';
+import 'package:flutter_paml_e_5210411086/screens/login_screen.dart';
 import '../theme/custom_color.dart';
 
 class EditProfileScreen extends StatelessWidget {

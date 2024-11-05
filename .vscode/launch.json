@@ -6,18 +6,18 @@
     "configurations": [
         
         {
-            "name": "flutter_paml_e_5210411054",
+            "name": "flutter_paml_e_5210411086",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_paml_e_5210411054 (profile mode)",
+            "name": "flutter_paml_e_5210411086 (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter_paml_e_5210411054 (release mode)",
+            "name": "flutter_paml_e_5210411086 (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
